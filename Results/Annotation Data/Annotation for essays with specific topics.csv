@@ -1,0 +1,416 @@
+Essay,Evaluation question,Annotator 3,Annotator 4,Annotator 1,Annotator 2
+Essay 1,Please evaluate the degree of factuality of the essay.,High,High,High,High
+Essay 1,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,The claims are verifiable and the arguments are acceptable. ,The claims are verifiable and the arguments are acceptable. ,The claims are verifiable and the arguments are acceptable. ,The claims are verifiable and the arguments are acceptable. 
+Essay 1,Please evaluate the degree of coherence of the essay.,Moderate,Moderate,Moderate,Moderate
+Essay 1,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,"The arguments could be structured in a more understandable manner. The connection between students finishing their homework and feeling pride is not understandable. However, the essay can be understood in general.","The arguments could be structured in a more understandable manner. The connection between students finishing their homework and feeling pride is not understandable. However, the essay can be understood in general.","The arguments could be structured in a more understandable manner. The connection between students finishing their homework and feeling pride is not understandable. However, the essay can be understood in general.","The arguments could be structured in a more understandable manner. The connection between students finishing their homework and feeling pride is not understandable. However, the essay can be understood in general."
+Essay 1,Please evaluate the degree of organization of the essay.,Low,Low,Low,Low
+Essay 1,Briefly explain your evaluation.,"There is no clear structure to be seen. Introduction, Body and Conclusion are merged into one paragraph.","There is no clear structure to be seen. Introduction, Body and Conclusion are merged into one paragraph.","There is no clear structure to be seen. Introduction, Body and Conclusion are merged into one paragraph.","There is no clear structure to be seen. Introduction, Body and Conclusion are merged into one paragraph."
+,,,,,
+Essay 2,Please evaluate the degree of factuality of the essay.,High,High,High,High
+Essay 2,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Claims about health and societal problems stemming from alcohol and tobacco can be accepted by majority of population.,Looks good,It sounds factual that tobacco and alcohol abuse can cause problems as described.,The essay supported by well-established facts and evidence.
+Essay 2,"Please evaluate the degree of coherence of the essay.
+
+",High,Moderate,High,Moderate
+Essay 2,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,"Essay has clear introduction, middle part and conclusion that all work to support the main claim.",Conclusion deviate from topic. Violence and crime off-topic,Looks very coherent,"The paragraph discussing the relative harmfulness of alcohol compared to tobacco could be better integrated with the rest of the essay, as it seems somewhat disjointed."
+Essay 2,"Please evaluate the degree of organization of the essay.
+
+
+ ",High,High,High,Moderate
+Essay 2,Briefly explain your evaluation.,Essays structure is clearly distinguishable and logically understandable.,,very organized,"Each paragraph introduces multiple points, which could be better organized into separate paragraphs focusing on specific aspects such as health impacts, social impacts, and economic costs."
+,,,,,
+Essay 3,Please evaluate the degree of factuality of the essay.,High,High,High,High
+Essay 3,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Claims of the essay can be accepted by most people.,Looks good,the arguments sound verifiable,"I think the article provides accurate, verifiable information on the health effects of tobacco and alcohol."
+Essay 3,Please evaluate the degree of coherence of the essay.,High,Moderate,High,High
+Essay 3,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,All paragraphs are constructed logically and support the main claim.," ""It is important to be aware of the risks associated with their use, and to take the necessary precautions to stay safe."" unnecessary in concusion. Arguments on why they are addicting missing. ",,
+Essay 3,Please evaluate the degree of organization of the essay.,High,High,High,High
+Essay 3,Briefly explain your evaluation.,"Essay has clear beginning, middle part and ending.",,,
+,,,,,
+Essay 4,Please evaluate the degree of factuality of the essay.,High,High,High,High
+Essay 4,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Claims made in the essay are supported by arguments that can be supported by majority of people.,Looks good,Sounds very reasonable to me,"The essay provides factual and verifiable information about the physical, mental, and social problems caused by tobacco and alcohol use."
+Essay 4,Please evaluate the degree of coherence of the essay.,High,Moderate,High,High
+Essay 4,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay has clear logical structure of its paragraphs.,Intro fail to convey main message clearly. second last paragraph about social repercussions (off topic),,
+Essay 4,Please evaluate the degree of organization of the essay.,High,High,High,High
+Essay 4,Briefly explain your evaluation.,"Essay has clear beginning, middle part and end that work to support the main claim.",,,
+,,,,,
+Essay 5,Please evaluate the degree of factuality of the essay.,High,High,Moderate,Moderate
+Essay 5,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Essay uses facts that can be accepted by majority of population and statistics to support its main claim.,Looks good,"""45 million Americans having an alcohol use disorder"" sounds too high to be true","Some statements lacked specific statistical support or accurate references. For example, the statements ""Tobacco abuse kills more than 6 million people each year"" and ""Alcohol abuse leads to alcohol use disorders in as many as 45 million Americans"" are influential, but need to be cited to enhance their credibility."
+Essay 5,Please evaluate the degree of coherence of the essay.,High,Low,High,Moderate
+Essay 5,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay is well structured in its arguments and all claims support the main claim of the essay.,"2nd paragraph more like repeating intro. 
+
+""Beyond the individual users, the consequences of tobacco and alcohol abuse extend beyond immediate damages. Tobacco and alcohol abuse have serious consequences that ripple outward to friends and family, cost communities, and affect societies and nations"" not exactly on-topic
+
+Conclusion off-topic a bit. ",,"Some sentences are repetitive, and the same points are reiterated without adding new information, which affects the coherence.
+"
+Essay 5,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,High
+Essay 5,Briefly explain your evaluation.,Essay can benefit from splitting big middle paragraphs into smaller ones.,Intro has arguments. 3rd paragraph needs restructuring. ,,
+,,,,,
+Essay 6,Please evaluate the degree of factuality of the essay.,High,High,High,High
+Essay 6,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Claims made by the essay can be accepted and support the main claim.,Looks good,Sounds very reasonable,the statements made are factual and supported by existing scientific and medical evidence.
+Essay 6,Please evaluate the degree of coherence of the essay.,High,Moderate,High,High
+Essay 6,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Arguments in essay flow in logical order and support the main claim.,"Off-topic to discuss crime aspects of these drugs. Same for social problems. ""As such, it is important to be mindful of the risks associated with their use. By understanding the potential risks associated with tobacco and alcohol, individuals can make informed decisions about their use."" unnecessary in conclusion. ",,
+Essay 6,Please evaluate the degree of organization of the essay.,High,High,High,High
+Essay 6,Briefly explain your evaluation.,"Essay has clear introduction, middle part and conclusion. Each paragraph stays only on one topic.",,,
+,,,,,
+Essay 7,Please evaluate the degree of factuality of the essay.,Moderate,Moderate,Moderate,Moderate
+Essay 7,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Author does not provide evidence of why increasing the fuel prices will decrease personal car usage specifically or how would increase in fuel prices will influence the economy overall.,Car drivers may accept price increase. Cars might be the only way to travel. ,"Doesn't sound convincing that ""resulting in less road congestion and less wear and tear on the streets""",Some of the points made in the article are not given appropriate scientific support. It would have been more convincing if scientific data and experiments had been given.
+Essay 7,Please evaluate the degree of coherence of the essay.,High,High,Moderate,High
+Essay 7,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay has good logical structure in its arguments and all arguments support the main claim.,,,
+Essay 7,Please evaluate the degree of organization of the essay.,Low,Low,Low,Moderate
+Essay 7,Briefly explain your evaluation.,Essay does not have paragraph structure at all.,No structure,,The essay is not clearly segmented.
+,,,,,
+Essay 8,Please evaluate the degree of factuality of the essay.,High,High,High,Moderate
+Essay 8,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Majority of the arguments that support the main claim can be accepted by majority of population.,Looks good,Containing statistics sounds convincing,"Incentives and Effects: The claim that higher fuel prices will incentivize the use of public transport, carpooling, and investment in fuel-efficient vehicles is supported by economic theory but lacks specific evidence or examples."
+Essay 8,Please evaluate the degree of coherence of the essay.,High,Moderate,High,High
+Essay 8,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Arguments in the essay flow in coherent manner and work to support the main claim.,Intro sounds more like argument. Conclusion comes with arguments.,,
+Essay 8,Please evaluate the degree of organization of the essay.,High,High,High,High
+Essay 8,Briefly explain your evaluation.,"Essay is well structured. It contains beginning, middle part and clear conclusion.",,,
+,,,,,
+Essay 9,Please evaluate the degree of factuality of the essay.,High,Moderate,High,Moderate
+Essay 9,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Majority of arguments presented in the essay can be accepted by most of population.,Revenue from higher petrol price might be offset by less demand for patrol. Cars might be the only way people want to move. (Just like how planes are the only practical way to travel across continent) ,Sounds very convincing in general,"The claim that raising petrol prices will improve vehicle fuel efficiency is, I think, reasonable, but it lacks direct evidence, and the article provides no specific studies or examples."
+Essay 9,Please evaluate the degree of coherence of the essay.,High,Moderate,High,High
+Essay 9,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,All arguments are well ordered and support the main claim.,Intro beating around the bush. Conclusion somewhat too. ,,
+Essay 9,Please evaluate the degree of organization of the essay.,High,High,High,High
+Essay 9,Briefly explain your evaluation.,"Paragraph structure of the essay is well made and contains clear introduction, middle part and conclusion.",,,
+,,,,,
+Essay 10,Please evaluate the degree of factuality of the essay.,High,High,High,Moderate
+Essay 10,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Essay provides many arguments to support its main claim. Most of the arguments can be accepted by majority of population.,Looks good,sounds convincing to me,"The essay mentions a ""growing consensus"" that increasing petrol prices is effective but does not reference specific experts or studies."
+Essay 10,Please evaluate the degree of coherence of the essay.,Moderate,Low,High,High
+Essay 10,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay can benefit from reordering the arguments in a more logical manner. The benefits of tax money from petrol and economic incentives can be ordered in separate paragraphs.,"Repetition such as
+the extra funds could be used to support low-emission vehicles and public transportation, both of which would help reduce further emissions and pollution problems.
+
+",,
+Essay 10,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,Moderate
+Essay 10,Briefly explain your evaluation.,"Last part of the essay can be improved by at least dividing it into two paragraphs, so that middle part with supporting arguments is separate from conclusion.",paragraph for the conclusion has arguments ,,"The essay has a recognisable structure, but the introduction and conclusion could be sharper and shorter in setting out and summarising the main arguments. The body part of the article could be more informative."
+,,,,,
+Essay 11,Please evaluate the degree of factuality of the essay.,Low,Moderate,Moderate,Low
+Essay 11,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,"Essay boasts a great benefit from increasing the fuel prices, but does not provide much evidence or reasoning of why it will improve the environment and traffic problems.","""As the price of petrol increases, fewer cars will be on the roads"" not necessarily in countries with little public transport. 
+
+""the price of petrol is the best way to solve these growing problems"". Best way would be to ban them after you have ""good"" alternatives","""The rise in the price of petrol will lead to a decrease in the number of cars on the roads."" sounds unlikely to be true","this essay lacks concrete factual evidence to substantiate its claims, which lowers its factual accuracy."
+Essay 11,Please evaluate the degree of coherence of the essay.,Low,Moderate,High,Moderate
+Essay 11,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay repeats same positions instead of providing argumentation to the claim that fuel tariff s are effective in improving the environment and traffic.,"Keeps repeating ""cost of increased prices of petrol"" over and over ",, The repetitive nature of the content affects its coherence.
+Essay 11,Please evaluate the degree of organization of the essay.,Low,Low,Moderate,Low
+Essay 11,Briefly explain your evaluation.,Essay does not have any paragraph organization at all.,No structure,,"The essay's organization is weak due to the lack of a clear introduction, body, and conclusion structure, and the repetitive presentation of arguments without distinct paragraph development."
+,,,,,
+Essay 12,Please evaluate the degree of factuality of the essay.,High,Moderate,Moderate,High
+Essay 12,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Most of the claims made in essay can be accepted by majority of population.,"""It carries too much risk "" too much is subjective. Same for ""very expensive"" 
+","I don't believe "" the use of uranium as fuel, which can lead to human rights abuses.""",The essay provides generally accurate information.
+Essay 12,Please evaluate the degree of coherence of the essay.,Moderate,Moderate,High,High
+Essay 12,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay repeats points made in a list of arguments of middle part in a conclusion part of the essay.,Main message not explicit in conclusion. Idea in 2. repeated in 4.,,
+Essay 12,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,Moderate
+Essay 12,Briefly explain your evaluation.,Conclusion part of the essay can be slimmed down to remove the repetition of bullet points in the middle part.,Last paragraph contain arguments. ,,the essay has a recognizable structure with distinct paragraphs but could be improved by refining the introduction and conclusion and reducing repetition.
+,,,,,
+Essay 13,Please evaluate the degree of factuality of the essay.,High,Moderate,Moderate,High
+Essay 13,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Arguments provided in the essay can be accepted by most of the people.,"""Countries should not succumb to the myths and propaganda of the nuclear industry""
+""The costs far exceed any potential rewards""
+","""The fact that nuclear facilities require large amounts of enriched uranium, a material used to manufacture nuclear weapons"" doesn't sound very convincing. Producing nuclear weapons is not simply taking the enriched uranium and done.",I think this essay provides factually accurate information on the risks and costs associated with nuclear power.
+Essay 13,"Please evaluate the degree of coherence of the essay. 
+",High,Moderate,High,High
+Essay 13,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Arguments flow in logical order to support the conclusion of the essay.,Topic and stance not explicitly stated in intro and conclusion. ,,
+Essay 13,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,High
+Essay 13,Briefly explain your evaluation.,Last paragraph can be split into a terrorism argument and conclusion of the essay.,Last paragraph has conclusion and arguments,,
+,,,,,
+Essay 14,Please evaluate the degree of factuality of the essay.,High,High,Low,Moderate
+Essay 14,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Most of the claims presented in the essay can be accepted by majority of population.,"""nuclear power is also unsustainable""","I don't agree ""nuclear power plants create a great deal of air pollution""","The general points made are factually correct, some statements lack specific evidence or recent data to provide a more robust factual basis."
+Essay 14,Please evaluate the degree of coherence of the essay.,High,High,High,High
+Essay 14,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,The information in paragraphs is well structured and follows logical form.,,,
+Essay 14,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,High
+Essay 14,Briefly explain your evaluation.,First paragraph of the essay can be split into introduction and middle part about environmental risks of nuclear power.,Intro has arguments. ,,
+,,,,,
+Essay 15,Please evaluate the degree of factuality of the essay.,Moderate,Moderate,Moderate,Moderate
+Essay 15,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Most claims are not supported with any arguments ,"""the cost of nuclear energy is extremely high and the technology is difficult to regulate""",barely any evidence in the text,"I think the statement that renewable energy is always cleaner, cheaper, and more efficient might be overly simplistic."
+Essay 15,Please evaluate the degree of coherence of the essay.,High,High,High,Moderate
+Essay 15,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,All claims follow a logical order and convey information clearly.,,,"The points about radioactive waste, accidents, cost, and regulation are relevant but could be better organized. The essay would benefit from a clearer explanation of how each point interconnects to reinforce the overall argument."
+Essay 15,Please evaluate the degree of organization of the essay.,Low,Low,Moderate,Moderate
+Essay 15,Briefly explain your evaluation.,Essay does not have any paragraph structure.,No structure,no detail explanation in the argument,The article is not clearly segmented.
+,,,,,
+Essay 16,Please evaluate the degree of factuality of the essay.,High,Moderate,Moderate,Moderate
+Essay 16,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Most people will find arguments in the essay acceptable.,"""Nuclear power is an expensive form of energy""
+""Nuclear energy is an outdated form of energy production""
+"" Nuclear energy, which is polluting""
+""nuclear energy is not efficient""","I am not sure if ""Nuclear energy is an outdated form of energy production""",The essay presents valid concerns but lacks in-depth analysis and specific evidence to fully substantiate its claims.
+Essay 16,Please evaluate the degree of coherence of the essay.,High,Moderate,High,Moderate
+Essay 16,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay provides clear points that are explained in detail in logical manner.,"Some repetitions such as""consequences to national security, economy and environment""",,"The points about economic, environmental, and safety concerns are relevant but could be better integrated."
+Essay 16,Please evaluate the degree of organization of the essay.,High,Moderate,High,High
+Essay 16,Briefly explain your evaluation.,"Essay has clear paragraph structure with introduction, middle and conclusion.",Second last paragraph has arguments and conclusion. ,,
+,,,,,
+Essay 17,Please evaluate the degree of factuality of the essay.,High,Moderate,High,Moderate
+Essay 17,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Most of the arguments can be accepted by majority of population.,"""Secondly, air travel restrictions would not significantly reduce air pollution.""
+",sounds convincing," It is true that air travel restrictions could lead to economic losses for airlines, businesses, and tourism. However, the extent of these impacts varies depending on the severity and duration of the restrictions, and I thin the essay could benefit from more specific examples or data."
+Essay 17,Please evaluate the degree of coherence of the essay.,High,Moderate,Moderate,Moderate
+Essay 17,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay is well structured and all arguments are arranged in good logical order.,The health and environmental impacts of air pollution can be devastating (different stance). Topic and stance implicit in essay,"the first argument ""air travel restrictions could cause significant economic losses."" has nothing to do with the topic","The essay presents arguments against air travel restrictions in a logical order but could benefit from clearer transitions between points. For example, the economic impact and pollution redistribution points are related but could be better integrated."
+Essay 17,Please evaluate the degree of organization of the essay.,High,High,High,High
+Essay 17,Briefly explain your evaluation.,"Essay has clear beginning, middle part and end. All major points are separated into paragraphs.",,,
+,,,,,
+Essay 18,Please evaluate the degree of factuality of the essay.,High,Moderate,High,High
+Essay 18,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Most of the points raised in the essay can be accepted by majority of the population,"""the amount of pollution created is not large enough to warrant restrictions on air travel"" unverifiable
+
+"" fuel efficiency of vehicles would also help to reduce air pollution"" could cause more people to use their vehicles longer",sounds convincing,The essay is generally accurate but would be enhanced by including specific data and evidence to support its claims.
+Essay 18,"Please evaluate the degree of coherence of the essay.
+",Moderate,Moderate,High,Moderate
+Essay 18,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay repeats points raised in earlier paragraph instead of giving new arguments.,"""such as implementing stricter emissions standards on airplanes, investing in renewable energy sources, and encouraging people to use public transportation or carpool more"" repetition",,the essay can be made more coherence by integrating similar ideas and providing clearer connections between ideas.
+Essay 18,Please evaluate the degree of organization of the essay.,High,Moderate,High,High
+Essay 18,Briefly explain your evaluation.,"Essay is well structured with clear introduction, middle part and ending.",Intro and conclusion seem to have arguments inside it and are lengthy,,
+,,,,,
+Essay 19,Please evaluate the degree of factuality of the essay.,High,High,High,High
+Essay 19,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,All the premises that attack the main claim can be accepted by general population.,Looks good,sounds convincing,The essay effectively uses accepted practices and solutions in aviation to argue against the need for restricting air travel.
+Essay 19,Please evaluate the degree of coherence of the essay.,High,High,High,High
+Essay 19,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay is well structured and all arguments flow in understandable way.,,,
+Essay 19,Please evaluate the degree of organization of the essay.,High,High,High,High
+Essay 19,Briefly explain your evaluation.,"All main arguments are separated by paragraphs and essay has clear introduction, middle part and ending.",,,
+,,,,,
+Essay 20,Please evaluate the degree of factuality of the essay.,Moderate,Moderate,High,Moderate
+Essay 20,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Essay does not address the impact of air travel on total pollution. ,"""restricting air travel is considered to be the only way to prevent it""",sounds convincing,"The essay identifies that human activities, such as industrial processes and overpopulation, contribute to environmental pollution. However, it does not provide specific data or examples to substantiate these claims, which weakens the overall factual foundation."
+Essay 20,Please evaluate the degree of coherence of the essay. ,High,Moderate,Low,Moderate
+Essay 20,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Arguments are arranged in logical form and clearly support the main claim.," ""restricting air travel is considered to be the only way to prevent it."" (Pro stance)
+""The effect of human activities has long been identified as a major environmental problem"" & ""the negative effects of human activities on the environment cannot be downplayed"" somewhat off-topic
+",the stance changed, I thinik it could benefit from clearer transitions between discussing general pollution issues and specific alternatives to restricting air travel.
+Essay 20,Please evaluate the degree of organization of the essay.,High,Moderate,Moderate,High
+Essay 20,Briefly explain your evaluation.,"Essay is split in clear paragraphs and has distinct beginning, middle and end.",Conclusion still has reasoning ,,
+,,,,,
+Essay 21,Please evaluate the degree of factuality of the essay.,High,High,High,High
+Essay 21,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,All arguments are relevant to the topic and can be accepted by majority of population.,Looks good,sounds convincing,The factual content is generally accurate specific evidence or references.
+Essay 21,Please evaluate the degree of coherence of the essay.,High,Moderate,Moderate,Moderate
+Essay 21,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay is well structured.,"""The consequences of air pollution are vast and dire. Air pollution threatens the health of people and ecosystems alike, contributing to acid rain that destroys ecosystems and causes lung diseases such as asthma. Air pollution also contributes to global warming, contributing to climate change and further threatening the health of ecosystems. "" somewhat off-topic from air travel
+
+""As a society, we need to find solutions that reduce air pollution without hindering economic growth. We need to take action now to stem the disastrous effects of air pollution."" unnecessary in conclusion imo. ",the last paragraph changes to talk about air pollution only,You can add some connecting sentences to make the essay more coherent.
+Essay 21,Please evaluate the degree of organization of the essay.,High,Moderate,Moderate,High
+Essay 21,Briefly explain your evaluation.,"Paragraph structure of the essay is good and has clear beginning, middle and end.",Intro has arguments. Conclusion too. ,,
+,,,,,
+Essay 22,Please evaluate the degree of factuality of the essay.,High,High,High,Moderate
+Essay 22,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Arguments presented in the essay are factual and can be accepted.,Looks good,sounds reasonable,"I think, the claim about Chicago's gun violence doesn't fully account for the complex socio-economic factors influencing crime rates.
+"
+Essay 22,Please evaluate the degree of coherence of the essay.,High,Moderate,Moderate,Moderate
+Essay 22,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay is logically structured and all arguments work to support the main claim.,"Alternative stance: Even though Chicago has some of the strictest gun-control laws in the nation, gun violence continues to plague the city. This proves that gun control alone is not the solution to preventing gun violence ","""This proves that gun control alone is not the solution to preventing gun violence, but it does reduce it."" sounds weird","The connection between gun control and crime reduction is supported with examples, but the essay fails to adequately address the complexity of the issue. The transition from Australia's example to Chicago's situation is somewhat abrupt, and the final statements on gun control's impact are not fully integrated with the examples given.
+"
+Essay 22,Please evaluate the degree of organization of the essay.,High,High,High,High
+Essay 22,Briefly explain your evaluation.,"Essay is well structured and has clear paragraph start, middle and end parts.",,,
+,,,,,
+Essay 23,Please evaluate the degree of factuality of the essay.,High,High,High,Low
+Essay 23,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,All claims presented in essay can be agreed upon by majority of population.,Looks good,sounds reasonable,The essay lacks specific data or evidence to support its claims about the direct relationship between making gun ownership illegal and a reduction in violent crime. It makes broad statements about guns being a common factor in violent crimes and the impact of their removal without citing relevant studies or statistics. 
+Essay 23,Please evaluate the degree of coherence of the essay.,Moderate,Moderate,High,Moderate
+Essay 23,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,"Essay focuses on only one claim that by making guns harder to own, violent crime will be decreased and repeats the same point.",Topic and stance not stated that clearly in intro and outro,,It is repetitive and fails to introduce new points or evidence in each paragraph. 
+Essay 23,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,High
+Essay 23,Briefly explain your evaluation.,Last paragraph can be split into paragraph about making gun ownership illegal and conclusion.,Conclusion and last argument in one paragraph. ,,
+,,,,,
+Essay 24,Please evaluate the degree of factuality of the essay.,Moderate,Moderate,Moderate,Moderate
+Essay 24,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Essay does not explain how gun possession provokes more crime.,""" There is no legitimate reason for an individual to own a gun""","""Illegal gun ownership is already a crime, so it is not as if criminals would turn to another weapon."" doesn't sound convincing",It does not address the complexities of gun violence or provide a nuanced discussion of other contributing factors.
+Essay 24,Please evaluate the degree of coherence of the essay.,Moderate,Moderate,High,Moderate
+Essay 24,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay can benefit from organizing the arguments in paragraphs about how possession of guns provokes gun violence and examples from other countries.,Topic and stance not restated clearly in conclusion,,It states that illegal gun ownership is already a crime and that making gun ownership illegal will not significantly change criminal behavior. This statement is contradictory and weakens the overall argument. 
+Essay 24,Please evaluate the degree of organization of the essay.,Low,Low,Moderate,Moderate
+Essay 24,Briefly explain your evaluation.,Essay does not have proper conclusion and does not separate arguments into paragraphs.,No organization,," The essay does not have a basic structure that includes an introduction, a body, and a conclusion."
+,,,,,
+Essay 25,Please evaluate the degree of factuality of the essay.,High,High,High,Moderate
+Essay 25,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Most of the points raised in the essay can be accepted by majority of the population.,"""Gun ownership should not be made illegal, as this would not eliminate most violent crime""",sounds convincing,The essay does not provide specific data or evidence to support its claims. The overall argument could be strengthened with more specific examples and data.
+Essay 25,Please evaluate the degree of coherence of the essay.,Low,Low,Low,Moderate
+Essay 25,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,"Essay does not support making guns illegal, but instead, argues for better gun control. Most of the points do not address the main claim.","Gun ownership should not be made illegal (alternative stance)
+Gun ownership is a fundamental right in the US, and any regulations should respect this (alternative stance)
+""Gun ownership is a fundamental right"" repetition",stance changed," The ideas are repeated without significant elaboration, leading to some redundancy."
+Essay 25,Please evaluate the degree of organization of the essay.,Moderate,Moderate,Moderate,Moderate
+Essay 25,Briefly explain your evaluation.,"Essay can greatly benefit by splitting first and second paragraphs in two, so that introduction and conclusion are separate from middle part.",,,The article is not segmented clearly enough.
+,,,,,
+Essay 26,Please evaluate the degree of factuality of the essay.,Moderate,High,High,Low
+Essay 26,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,"I don't think that most claims of the essay can be accepted by majority of population. It is not supported by facts, how gun ownership culture promotes culture of fear.",Looks good,sounds convincing,"The essay makes broad claims about the impact of gun ownership on violent crime without providing specific evidence or data. For instance, it states that ""the vast majority of violence is committed with guns"" and that ""without gun ownership, most violent crime would be eliminated,"" but does not present statistics or studies to support these assertions. "
+Essay 26,Please evaluate the degree of coherence of the essay.,Low,Low,Moderate,Low
+Essay 26,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay contains many repetitions and strays away from main claim of the discussion.,"Ideas such as ""culture of fear rather than safety"", ""gun ownership should be further restricted"" and much more repeats itself in essay conceptually.",repeat the same argument back and forth,"It repetitively emphasizes the need for restricting gun ownership and lists similar measures (e.g. background checks, licensing) multiple times without adding new information. This redundancy creates a disjointed narrative and fails to develop a logical progression of ideas."
+Essay 26,Please evaluate the degree of organization of the essay.,Low,Low,Moderate,Low
+Essay 26,Briefly explain your evaluation.,Essay is not structured at all and does not have any paragraph structure.,,," The essay is poorly organized. It lacks a clear introduction, body, and conclusion structure. "
+,,,,,
+Essay 27,Please evaluate the degree of factuality of the essay.,Moderate,Moderate,Moderate,Moderate
+Essay 27,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,"I don't think that majority of statements can be accepted. If truth can be manipulated, then it is reasonable to say that it will be easier and more beneficial for your opponents to call you out on a lie. If lying to achieve desired outcomes is abused too much, then you will loose reputation and it will be much harder for people to believe what you have to say.","""it is clear that the claims of sexual abuse, protests, public understanding and safer world could not be made without the help of false information and manipulated videos and images"" 
+
+""it may be more beneficial to allow some lies that are useful to the public cause""","the last sentence ""With this in mind, it is clear that the claims of sexual abuse, protests, public understanding and safer world could not be made without the help of false information and manipulated videos and images. This proves that telling the truth is not essential and that some lies are necessary."" sounds weird",The general arguments about the benefits of lying versus telling the truth are plausible but not fully supported with concrete examples or evidence.
+Essay 27,Please evaluate the degree of coherence of the essay.,High,Moderate,Moderate,Moderate
+Essay 27,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Arguments are presented in very understandable and clear manner.,"Topic and stance, which should be the main message not seen explicitly in intro ",,"Some transitions between ideas could be clearer, and the argument about manipulated information (like false statements and videos) is not fully integrated into the overall thesis."
+Essay 27,Please evaluate the degree of organization of the essay.,High,Moderate,High,Moderate
+Essay 27,Briefly explain your evaluation.,"Essay has clear paragraphs for beginning, middle part and conclusion.",Conclusion mixed with arguments. ,,"The introduction presents the topic and stance, but the body paragraphs are somewhat disorganized, with repeated points and insufficient separation of ideas."
+,,,,,
+Essay 28,Please evaluate the degree of factuality of the essay.,High,Moderate,High,Low
+Essay 28,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,"Most people will agree, that sometimes telling the truth may worsen the social relationships.",""" In contrast, truth-telling could lead to a further degradation of a situation""",sounds reasonable,"The statements about the benefits of lying and the supposed lesser consequences of withholding the truth are generalized and not backed by specific studies, data, or references."
+Essay 28,Please evaluate the degree of coherence of the essay.,Moderate,Moderate,High,Moderate
+Essay 28,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Two paragraphs of middle reasoning part repeat roughly the same statements.,Conclusion repetitive,,"It repetitively emphasizes the same point about the potential benefits of lying and the negative consequences of truth-telling, which makes the argument seem redundant."
+Essay 28,Please evaluate the degree of organization of the essay.,High,High,High,Moderate
+Essay 28,Briefly explain your evaluation.,"Essay has clear paragraph structure with beginning, middle and end parts.",,,"The essay follows a recognizable structure with an introduction, body, and conclusion. However, the paragraphs are somewhat repetitive, as the same points about the benefits of withholding the truth and the risks of truth-telling are reiterated without introducing new perspectives."
+,,,,,
+Essay 29,Please evaluate the degree of factuality of the essay.,High,High,High,Moderate
+Essay 29,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Majority of population will find statements of the essay acceptable.,Looks good,sounds ok reasonable,"The essay mentions that lying can protect someone in dangerous situations and that the outcome of a situation might remain unchanged regardless of the truth, but these claims are general and not supported by concrete examples or studies. The arguments are plausible but not deeply supported by factual evidence.
+"
+Essay 29,Please evaluate the degree of coherence of the essay.,High,Low,High,High
+Essay 29,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay has good logical flow of arguments and they are easy to understand.,"""It can depend on the situation and the context"" (alternative stance)
+"" when someone is trying to make an apology, it is often best to say something kind and honest, but not necessarily the whole truth"" (alternative stance) 
+Intro does not state the stance and topic that clearly",,
+Essay 29,Please evaluate the degree of organization of the essay.,High,Moderate,High,High
+Essay 29,Briefly explain your evaluation.,"Essay has clear paragraph structure, introduction of the main topic, middle part and conclusion.",The one example in the intro probably belongs to another paragraph. ,,
+,,,,,
+Essay 30,Please evaluate the degree of factuality of the essay.,Moderate,Low,Moderate,Moderate
+Essay 30,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,"I don't think that majority of population will agree that lying will be beneficial to save face of a person or to help them go through difficult times. If a person is not getting the truth, they will be unlikely to change their situation.","""Similarly, if someone is going through a difficult situation and needs a mental break, telling lies to escape the present reality may be beneficial in the short term.""
+
+"" lying can be beneficial in the long run""
+
+""if someone is being accused of a crime they did not commit, lying in order to prove their innocence is the right course of action""
+
+""in politics it can be beneficial to mislead the public for the greater good""","""For example, if someone is being accused of a crime they did not commit, lying in order to prove their innocence is the right course of action"" sounds weird",The idea that lying might be advantageous in certain contexts is acknowledged but not deeply explored with factual backing.
+Essay 30,Please evaluate the degree of coherence of the essay.,Moderate,Moderate,High,Moderate
+Essay 30,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,"Essay can benefit from reorganization, where the points of saving a person from embarrassment and telling a lie during emotional distress are separated in different paragraphs.",Topic and stance not clearly stated in intro. ,,it jumps from legal situations to personal emotional states and political scenarios might confuse the reader about how these situations are interconnected.
+Essay 30,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,High
+Essay 30,Briefly explain your evaluation.,Essay has only single paragraph of middle part and some of the supporting arguments of main claim are in introduction paragraph.,Examples (arguments) inside intro. ,,
+,,,,,
+Essay 31,Please evaluate the degree of factuality of the essay.,High,Moderate,High,Low
+Essay 31,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Majority of population will find statements of the essay acceptable.,"""Lying can have many negative consequences, both for the individual and for society as a whole""
+
+""When people cannot trust each other, it becomes much easier for bad actors or unethical organizations to take advantage of people""",sounds reasonable,"The essay presents a strong argument for the necessity of always telling the truth, but it does so without providing specific evidence or examples. The statements made about the negative consequences of lying and the importance of honesty are widely accepted opinions but lack empirical support or detailed examples to validate the claims. "
+Essay 31,Please evaluate the degree of coherence of the essay.,Low,Low,Low,High
+Essay 31,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,None of the arguments support the stance on the main issue. Essay argues complete opposite.,Alternative stance all the time,doesn't fit the stance at all,
+Essay 31,Please evaluate the degree of organization of the essay.,High,Moderate,High,High
+Essay 31,Briefly explain your evaluation.,"Essay has very good organization with clear, introduction, multiple paragraphs of middle part and conclusion.",Arguments in intro and conclusion. ,,
+,,,,,
+Essay 32,Please evaluate the degree of factuality of the essay.,High,Moderate,High,Low
+Essay 32,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,All claims can be accepted by majority of population.,Censorship exists in liberal countries too. (Child porn is banned probably everywhere),Sounds convincing,"The essay's statements are quite general and lack specific evidence or examples to substantiate the claims. The arguments made about censorship leading to complications, reducing violence, and causing discontentment are broad and not backed by specific data or studies."
+Essay 32,Please evaluate the degree of coherence of the essay.,High,High,High,Moderate
+Essay 32,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Central message is conveyed in logical and clear way.,,,"The main ideas are somewhat conveyed, but the connections between the points (e.g., how censorship leads to a reduction of violence) are not fully developed. "
+Essay 32,"Please evaluate the degree of organization of the essay.
+ ",Low,Low,Moderate,Moderate
+Essay 32,Briefly explain your evaluation.,Essay has no paragraph structure.,,,"It is quite brief and lacks detailed support for its claims. The introduction states the stance against censorship, and the conclusion reiterates the stance without summarizing the specific arguments made."
+,,,,,
+Essay 33,Please evaluate the degree of factuality of the essay.,High,High,High,Moderate
+Essay 33,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,All the arguments can be accepted by majority of people.,Looks good,Sound convincing,"The claim about ""Black Lives Matter protesters censored by the Washington Monument"" is inaccurate or misleading as it lacks evidence and clarity"
+Essay 33,Please evaluate the degree of coherence of the essay.,High,Moderate,High,Moderate
+Essay 33,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay presents arguments in logical order that is easy to follow.,Repetition of arguments in intro and outro. Second paragraph does not soundmuch like an argument,,"Some points, such as the specific examples of censorship, are not well-explained or supported. "
+Essay 33,Please evaluate the degree of organization of the essay.,High,Moderate,High,High
+Essay 33,Briefly explain your evaluation.,"Essay is well organized with clear introduction, middle part and ending.",Intro and outro filled somewhat with arguments. ,,
+,,,,,
+Essay 34,Please evaluate the degree of factuality of the essay.,High,High,High,Moderate
+Essay 34,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Most of the population will accept the claims made in essay.,Looks good,Sounds convincing,It lacks specific examples or evidence to support its claims about the arbitrary implementation of censorship and its potential for abuse.
+Essay 34,Please evaluate the degree of coherence of the essay.,High,High,High,High
+Essay 34,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay presents information in clear and understandable way.,"
+",,
+Essay 34,Please evaluate the degree of organization of the essay.,Moderate,High,High,High
+Essay 34,Briefly explain your evaluation.,First and second paragraphs can be split into separate paragraphs to better organize the information.,,,
+,,,,,
+Essay 35,Please evaluate the degree of factuality of the essay.,High,Moderate,High,High
+Essay 35,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Majority of population will agree with the points raised in essay.,"""Censorship in modern society is not necessary"" (child porno would need it) ",Sounds convincing,"I think, the majority of the arguments are supported with acceptable evidence or acceptable premisesse."
+Essay 35,Please evaluate the degree of coherence of the essay.,Moderate,High,High,High
+Essay 35,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay has two conclusion paragraphs that repeat the same thing.,,,
+Essay 35,Please evaluate the degree of organization of the essay.,High,Moderate,High,High
+Essay 35,Briefly explain your evaluation.,"Essay is well structured with clear beginning, middle part and ending.",Second last paragraph sounds like a mix of conclusion and argument ,,
+,,,,,
+Essay 36,Please evaluate the degree of factuality of the essay.,Moderate,Moderate,High,Moderate
+Essay 36,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,"I don't think that most arguments presented in essay are acceptable. Firstly, even societies that are free from censorship rely a lot on governmental information. Second, how can internet be susceptible to censorship if it facilitates more diverse array of opinions and views? ","""The more over-regulation introduced into the internet the more likely it becomes that people will become accustomed to the more regulated environment.""",Sounds convincing,"Statements about censorship leading to a reduction of free expression, over-regulation causing more problems, and the slippery slope effect are acceptable premises, but they could benefit from more concrete support to enhance their factual basis."
+Essay 36,Please evaluate the degree of coherence of the essay.,Moderate,Moderate,Moderate,Moderate
+Essay 36,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,"This sentence makes no sense to me: ""This will lead to more restrictions on free expression in the long term, despite any immediate benefits to society caused by censorship of modern society is quite necessary."". Essay repeats the slippery slope argument and the possibility of future over-regulation.","""censorship in modern society is quite necessary over-regulations can lead to more problems than they solve"" does not sound coherent",Third paragraph has different stance,"The repetition of the phrase ""censorship in modern society is quite necessary"" creates confusion, as it contradicts the essay's stance. "
+Essay 36,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,High
+Essay 36,Briefly explain your evaluation.,Last paragraph can be split in conclusion and middle part to make them more distinct.,"""Finally"" and ""additionally"" in the last paragraph. Might need to break it up in each paragraph. Otherwise it looks like there is an argument in conclusion. ",,
+,,,,,
+Essay 37,Please evaluate the degree of factuality of the essay.,High,High,High,High
+Essay 37,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Majority of population will find all claims made in essay acceptable.,Looks good,Sounds convincing,"The majority of the arguments are supported with acceptable evidence or acceptable premises,therefore making the statements in essay acceptable. "
+Essay 37,Please evaluate the degree of coherence of the essay.,High,High,High,High
+Essay 37,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay is well structured and conveys information clearly.,,,
+Essay 37,Please evaluate the degree of organization of the essay.,High,High,High,High
+Essay 37,Briefly explain your evaluation.,"Paragraph organization of points is clear and essay has clear introduction, middle part and ending.",,,
+,,,,,
+Essay 38,Please evaluate the degree of factuality of the essay.,High,High,High,Moderate
+Essay 38,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Majority of population will find statements in the essay acceptable.,Looks good,Sounds convincing,"The essay includes some factual claims, such as the economic burden of alcohol-related harm estimated at £73 billion annually. But specific sources for these claims are not cited, and some arguments, like the potential for increased bootlegging, are speculative without concrete evidence provided."
+Essay 38,Please evaluate the degree of coherence of the essay.,Moderate,Moderate,Moderate,Moderate
+Essay 38,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay does not provide clear stance on the main issue. Essay concludes that further research is needed on the issue instead of taking a supporting stance.,""" However, there is a potential that increasing taxes could lead to further negative consequences such as increased consumption by some consumers, further increase profits by bootleggers and reduce prices and demand by businesses"" stance changed here
+
+Con argument: ""On the other hand, there is a potential argument that increasing taxes on alcoholic beverages could lead to further negative consequences. In particular, some consumers may opt to buy cheaper, less-taxed alcohol from other countries, further increasing their consumption. Moreover, higher taxes could further encourage existing bootleggers to increase production, or entice new ones to enter the market. Furthermore, businesses have reported that higher taxes increase prices and reduce demand, thus negatively impacting their profits.""
+
+""reduce demand"" contradicts ""increased consumption by some consumers""",Third paragraph sound weird,The transition between the potential negative consequences and the conclusion could be smoother to maintain the essay's logical progression.
+Essay 38,Please evaluate the degree of organization of the essay.,High,High,High,High
+Essay 38,Briefly explain your evaluation.,"Essay has good paragraph structure and clear introduction, middle part and conclusion.",,,
+,,,,,
+Essay 39,Please evaluate the degree of factuality of the essay,High,Moderate,High,High
+Essay 39,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,All the provided claims can be accepted by most of population.,"""Arguments against increasing taxes on alcohol suggest that it could have a negative economic impact, leading to reduced consumer spending and lost jobs""",Sounds convincing,"The majority of the arguments are supported with acceptable evidence or acceptable premises,therefore making the statements in essay acceptable. "
+Essay 39,Please evaluate the degree of coherence of the essay.,Moderate,Moderate,High,High
+Essay 39,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,"In the first part of the essay it is argued that alcohol related problems can be reduced, while in the next paragraph it is claimed that they have only limited success. ","Con stance assumed: ""Arguments against increasing taxes on alcohol suggest that it could have a negative economic impact, leading to reduced consumer spending and lost jobs. In addition, it could be argued that the alcohol industry provides significant tax revenue to governments and increasing taxes could be seen as a punishment for the industry. Moreover, it could be argued that increasing taxes will not have a significant effect on reducing alcohol-related problems, as other countries have already implemented tax hikes with limited success."" ",,
+Essay 39,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,High
+Essay 39,Briefly explain your evaluation.,First paragraph can be split into introduction and middle paragraph.,Lengthy intro. Intro has arguments. ,,
+,,,,,
+Essay 40,Please evaluate the degree of factuality of the essay.,High,High,Moderate,Moderate
+Essay 40,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Most of the arguments in the essay are acceptable. I won't agree that increasing prices of alcohol through taxation would decrease binge drinking though. Binge drinkers are addicts and they won't care about somewhat increased or decreased price.,Looks good,"""taxes can also act as a form of sin tax"" sounds weird","The essay asserts that alcohol is a major contributor to social problems such as poverty, crime, and domestic violence, which are commonly discussed issues, but no specific studies or data are cited to substantiate these claims."
+Essay 40,Please evaluate the degree of coherence of the essay.,High,High,High,High
+Essay 40,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay expresses its points clearly and in understandable order.,,,
+Essay 40,Please evaluate the degree of organization of the essay.,Low,Low,Moderate,High
+Essay 40,Briefly explain your evaluation.,Essay does not have any paragraph structure.,,,
+,,,,,
+Essay 41,Please evaluate the degree of factuality of the essay.,High,Moderate,High,High
+Essay 41,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Most of the claims in essay most people will find acceptable. Essay states two times that increasing tax on alcohol is the best way to combat alcohol related problems.,"""encouraging earlier socialisation among young people""",Sounds convincing,"The majority of the arguments are supported with acceptable evidence or acceptable premises,therefore making the statements in essay acceptable. "
+Essay 41,Please evaluate the degree of coherence of the essay.,Moderate,Moderate,High,Moderate
+Essay 41,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,"In the third paragraph author argues about increasing the age of legal alcohol consumption, which is not related to taxing alcohol more. ","""Many people in the general public are aware of the negative impacts of the alcohol industry."" repeated conceptually in the next sentence. 
+
+""In addition to this, studies have found that raising the minimum legal sale age could reduce the harm from alcohol consumption significantly by reducing access to the product among younger age groups and encouraging earlier socialisation among young people. Increasing the minimum age requirement for the purchase of alcoholic beverages could reduce access to the products causing alcohol-related harms among young people. This will also reduce the amount of money available to the alcohol industry, leading to a decrease in harm from the industry."" unrelated to increasing taxes ",,Some sentences are repetitive and could be streamlined for better coherence. 
+Essay 41,Please evaluate the degree of organization of the essay.,High,High,High,High
+Essay 41,Briefly explain your evaluation.,"Essay is well structured with clear introduction, middle part and ending.",,,
+,,,,,
+Essay 42,Please evaluate the degree of factuality of the essay.,Moderate,Moderate,High,Moderate
+Essay 42,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,"If drugs are legalized, then the people who produce and sell them stop being criminals. Legalization allows to move drug market from criminal underworld and drug traffickers to legal businesses.","""Just as with any other commodity, when drugs are legalized, they become a money-making opportunity for criminals""
+
+""drug traffickers will quickly find ways to circumvent legalization and continue their operations""",Sounds convincing,"The claim that ""when drugs are legalized, they become a money-making opportunity for criminals"" is a generalization that needs more specific examples or data to support it."
+Essay 42,Please evaluate the degree of coherence of the essay.,High,Moderate,High,High
+Essay 42,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Arguments are well organized and flow in logical order to support the main claim.,Intro does not state clearly the stance and exact topic ,,
+Essay 42,Please evaluate the degree of organization of the essay.,High,High,High,High
+Essay 42,Briefly explain your evaluation.,"Essay has clear paragraph structure with beginning, middle part and ending.",,,
+,,,,,
+Essay 43,Please evaluate the degree of factuality of the essay.,Moderate,Moderate,Moderate,Moderate
+Essay 43,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,"Legalizing drugs will lead greater profit to cleaner businesses, that don't need to be associated with criminal networks and cartels to operate. ","""Furthermore, legal drugs could lead to greater profits for organizations that push drugs, such as cartels, and lead to a larger criminal network around them""","""legal drugs could lead to greater profits for organizations that push drugs"" sounds not convincing","The assertion that ""legal drugs could lead to greater profits for organizations that push drugs"" is a generalization that would benefit from empirical evidence or examples."
+Essay 43,Please evaluate the degree of coherence of the essay.,High,High,High,High
+Essay 43,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Arguments in essay are well structured and are organized in understandable order.,,,
+Essay 43,Please evaluate the degree of organization of the essay.,Low,Low,Low,Moderate
+Essay 43,Briefly explain your evaluation.,Essay has no paragraph structure.,,,The essay is structured to some degree and might benefit from restructuring. There are some paragraphs recognizable. 
+,,,,,
+Essay 44,Please evaluate the degree of factuality of the essay.,Moderate,Moderate,High,High
+Essay 44,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Not fighting the war on drugs will free up money that can be used for something else in addition to the tax revenue from selling drugs.,"""the money that is generated from the sale of drugs may encourage more people to use them, leading to increased crime and violence""",Sounds convincing,"The majority of the arguments are supported with acceptable evidence or acceptable premises,therefore making the statements in essay acceptable. "
+Essay 44,Please evaluate the degree of coherence of the essay.,High,High,High,High
+Essay 44,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay presents its points in logical order and is well organized.,,,
+Essay 44,Please evaluate the degree of organization of the essay.,High,High,High,High
+Essay 44,Briefly explain your evaluation.,"Essay has clear structure with introduction, middle part and ending.",,,
+,,,,,
+Essay 45,Please evaluate the degree of factuality of the essay.,Moderate,High,High,Moderate
+Essay 45,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,By legalizing all drugs the government removes the regulatory burden of enforcing the law on users and producers of drugs instead of increasing it.,Looks good,Sounds convincing,The essay mentions that legalization could create an economic burden without providing details on the potential costs of regulating and distributing drugs. Soit would be stronger with specific examples or evidence.
+Essay 45,Please evaluate the degree of coherence of the essay.,Moderate,High,High,High
+Essay 45,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay can be more focused on explaining only one point at a time. Reduction of crime and harm from drugs points can be made into separate paragraphs.,,,
+Essay 45,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,High
+Essay 45,Briefly explain your evaluation.,Introduction and conclusion part can be separated from main claims of the essay.,Intro mixed with arguments. ,,
+,,,,,
+Essay 46,Please evaluate the degree of factuality of the essay.,Moderate,Moderate,High,Moderate
+Essay 46,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,"The point of legalization of all drugs is to make legal business compete with criminal organizations, and therefore, reduce criminal profits.",""" However, this ignores the fact that legalization would likely increase the size of the drug market and therefore, the potential profits for criminal organizations""",Sounds convincing,the essay lacks specific evidence or data to substantiate the claims about the economic impact on criminal organizations and the environmental destruction caused by drug production and trafficking. 
+Essay 46,Please evaluate the degree of coherence of the essay.,High,High,High,High
+Essay 46,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay is well structured and easy to follow.,,,
+Essay 46,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,High
+Essay 46,Briefly explain your evaluation.,"Middle part can be split into 3 paragraphs, each explaining in more detail their argument.",Second paragraph has 3 ideas. ,,
+,,,,,
+Essay 47,Please evaluate the degree of factuality of the essay.,High,Moderate,High,High
+Essay 47,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Claims made by essay can be accepted by majority of population.,""". Without the Olympics, these funds would not be available""",Sounds convincing,"The majority of the arguments are supported with acceptable evidence or acceptable premises,therefore making the statements in essay acceptable. "
+Essay 47,Please evaluate the degree of coherence of the essay.,Low,Low,Low,High
+Essay 47,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,"All arguments are in support of holding the Olympics instead of arguing, why money should be used in any other way.",Exact opposite stance,Opposite stance,
+Essay 47,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,High
+Essay 47,Briefly explain your evaluation.,First paragraph in the essay can be split into introduction and first point paragraphs.,First argument inside intro,,
+,,,,,
+Essay 48,Please evaluate the degree of factuality of the essay.,High,High,High,High
+Essay 48,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,All arguments can be accepted by majority of population.,Looks good,Sounds convincing,"The majority of the arguments are supported with acceptable evidence or acceptable premises,therefore making the statements in essay acceptable. "
+Essay 48,Please evaluate the degree of coherence of the essay.,Low,Low,Low,High
+Essay 48,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Essay argues for opposite stance than what is stated. All arguments support opposite conclusion.,Exact opposite stance,Opposite stance,
+Essay 48,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,High
+Essay 48,Briefly explain your evaluation.,First paragraph can be split into introduction and first point.,First argument inside intro,,
+,,,,,
+Essay 48,Please evaluate the degree of factuality of the essay.,Moderate,Moderate,High,High
+Essay 48,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,Holding the Olympics in your country does address the issues of global poverty and public health by attracting foreign capital into a host country.,""" the construction of Olympic venues can lead to destruction of ecosystems and habitat loss, as exemplified by the London Olympic Games""
+
+"" the pollution generated from constructing and hosting the Olympics can have long-term detrimental effects on the local environment""",Sounds convincing,"The majority of the arguments are supported with acceptable evidence or acceptable premises,therefore making the statements in essay acceptable. "
+Essay 48,Please evaluate the degree of coherence of the essay.,High,High,High,High
+Essay 48,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Arguments are well structured and flow logically to support the main point.,,,
+Essay 48,Please evaluate the degree of organization of the essay.,Moderate,Moderate,High,High
+Essay 48,Briefly explain your evaluation.,Organization of essay can be improved by splitting the first paragraph into introduction and first point about of cost of holding Olympic grames.,"Intro needs to be split 2 paragraphs probably, to separate the cost arguments of hosting the Olympics from the main message",,
+,,,,,
+Essay 49,Please evaluate the degree of factuality of the essay.,High,High,High,Moderate
+Essay 49,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,All arguments presented in essay can be accepted by majority of population.,Looks good,Sounds convincing,"I think, the assertion that the costs can be seen as an investment in long-term development is a perspective that can be debated, but without specific examples or evidence, it remains an opinion rather than a verified fact."
+Essay 49,Please evaluate the degree of coherence of the essay.,High,Low,Moderate,High
+Essay 49,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,Arguments of essay are well presented and flow in logical order.,Opposite stance assumed,Stance changed,
+Essay 49,Please evaluate the degree of organization of the essay.,Low,Low,High,Moderate
+Essay 49,Briefly explain your evaluation.,Essay does not have any paragraph structure.,,,The essay is not clearly segmented.
+,,,,,
+Essay 50,Please evaluate the degree of factuality of the essay.,High,High,High,Moderate
+Essay 50,Briefly explain your evaluation. Please include the statements that you find unacceptable or unverifiable.,All the points made in essay would be accepted by majority of population.,Looks good,Sounds convincing,"the essay mentions ""countless studies"" about economic benefits and tourism but does not cite any particular sources or figures. The general acceptance of these claims depends on the availability of relevant evidence, which is not provided in the essay."
+Essay 50,Please evaluate the degree of coherence of the essay.,High,Low,Low,High
+Essay 50,Briefly explain your evaluation. Please include the terms that you think were used interchangeably with for the same concepts or include the statements which were not logically structured.,"Arguments are well organized, have logical structure and takes into account opponents standpoint.",Alternative stance assumed,Opposite stance,
+Essay 50,Please evaluate the degree of organization of the essay.,High,Moderate,High,High
+Essay 50,Briefly explain your evaluation.,"Each paragraph in the essay torches one topic. Essay has clear introduction, middle part and conclusion.",Arguments inside intro,,
