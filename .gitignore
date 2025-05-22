@@ -1,0 +1,8 @@
+node_modules/
+.cache/
+*.log
+*.checkpoint
+*.pt
+*.ckpt
+*.h5
+.DS_Store
